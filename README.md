@@ -1,8 +1,10 @@
 ### Olá! Seja bem vindo(a) 😊
 
-◻ Sou Patrícia Barnabé (mais conhecida como Pat), estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora full stack.
+Sou Patrícia Barnabé (mais conhecida como Pat), estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora full stack. 
 
-◻ Também sou recém formada em Direito pela UFPB e pretendo me especializar na área de Direito Digital.
+No momento, também faço parte da 10ª Turma de Front-End da {reprograma}. 💜
+
+Além disso, sou formada em Direito pela UFPB e pretendo me especializar na área de Direito Digital.
 
 <!--
 **patbarnabe/PatBarnabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
