@@ -2,8 +2,6 @@
 
 Sou Patrícia Barnabé (mais conhecida como Pat), estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora full stack. 
 
-No momento, também faço parte da 10ª Turma de Front-End da {reprograma}. 💜
-
 Além disso, sou formada em Direito pela UFPB e pretendo me especializar na área de Direito Digital.
 
 <!--
