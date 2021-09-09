@@ -2,7 +2,7 @@
 
 Sou formada em Front-End pela Reprograma e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Desenvolvimento Front-End na Laboratoria. Apesar de ser formada em Direito, sempre tive interesse na área de exatas e sou fascinada pelo universo tecnológico, em descobrir como as tecnologias funcionam e aprender como tudo acontece por trás das telas e das máquinas. Então, para mim, a programação se encaixou perfeitamente e pretendo sempre participar de projetos que, de alguma forma, causem impacto positivo na sociedade 🌱
 
-👩🏼‍💻 Desenvolvimento Front End, JavaScript, HTML, CSS, UX/UI, React, Vue, Angular, Node.js, Métodos Ágeis, Gestão de Projetos.
+👩🏼‍💻 Desenvolvimento Front End, JavaScript, HTML, CSS, UX/UI, React, Node.js, Métodos Ágeis, Gestão de Projetos, etc.
 
 <!--
 **patbarnabe/PatBarnabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
