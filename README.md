@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
+## Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
 <img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/892909282041921536/patdoll.gif">
 
 :computer: Sou formada em Front-End pela <a href="https://reprograma.com.br/">{reprograma}</a> e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e Desenvolvimento Front-End na <a href="https://www.laboratoria.la/br"> Laboratoria</a>. <br>
