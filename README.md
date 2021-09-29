@@ -10,6 +10,10 @@
 👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
 👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.  
 
+<div> 
+  <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
 ----
 
 <div align="center">
@@ -29,11 +33,6 @@
   <img align="center" alt="Pat-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Pat-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-  
-----
- 
-<div> 
-  <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
   
 
