@@ -1,4 +1,6 @@
 ### Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
+<img align="right" alt="Patt-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/892909282041921536/patdoll.gif">
+
 
 :computer: Sou formada em Front-End pela <a href="https://reprograma.com.br/">{reprograma}</a> e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e Desenvolvimento Front-End na <a href="https://www.laboratoria.la/br"> Laboratoria</a>. <br>
 :computer: I'm a Frontend Developer graduated at **{reprograma}** and, currently, I'm studying **Systems Analysis and Development** and Frontend Development at **<Laboratoria>**</a>.
@@ -7,8 +9,7 @@
 :balance_scale: Despite having a **Law Degree** from **UFPB**, I've always been interested in the exact sciences and I'm fascinated by the technological universe.
 
 👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
-👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.
-  
+👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.  
 ----
 
 <div align="center">
@@ -27,9 +28,6 @@
   <img align="center" alt="Pat-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Pat-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Pat-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-
-  <img align="right" alt="Patt-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/892909282041921536/patdoll.gif">
 </div>
   
 ----
