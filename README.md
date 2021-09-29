@@ -10,6 +10,7 @@
 
 👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
 👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.  
+
 ----
 
 <div align="center">
