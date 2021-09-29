@@ -1,20 +1,41 @@
-### Olá! Seja bem vindo(a) 😊
+### Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
 
-Sou formada em Front-End pela Reprograma e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Desenvolvimento Front-End na Laboratoria. Apesar de ser formada em Direito, sempre tive interesse na área de exatas e sou fascinada pelo universo tecnológico, em descobrir como as tecnologias funcionam e aprender como tudo acontece por trás das telas e das máquinas. Então, para mim, a programação se encaixou perfeitamente e pretendo sempre participar de projetos que, de alguma forma, causem impacto positivo na sociedade 🌱
+:computer: Sou formada em Front-End pela <a href="https://reprograma.com.br/">{reprograma}</a> e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e Desenvolvimento Front-End na <a href="https://www.laboratoria.la/br"> Laboratoria</a>. <br>
+:computer: I'm a Frontend Developer graduated at **{reprograma}** and, currently, I'm studying **Systems Analysis and Development** and Frontend Development at **<Laboratoria>**</a>.
 
-👩🏼‍💻 Desenvolvimento Front End, JavaScript, HTML, CSS, UX/UI, React, Node.js, Métodos Ágeis, Gestão de Projetos, etc.
+:balance_scale: Apesar de ser formada em **Direito** pela <a href="https://www.ufpb.br/">UFPB</a>, sempre tive interesse na área de exatas e sou fascinada pelo universo tecnológico. <br>
+:balance_scale: Despite having a **Law Degree** from **UFPB**, I've always been interested in the exact sciences and I'm fascinated by the technological universe.
 
-<!--
-**patbarnabe/PatBarnabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
+👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.
+  
+----
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/patbarnabe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patbarnabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patbarnabe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pat-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Pat-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Pat-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Pat-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Pat-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Pat-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+----
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+  
+
