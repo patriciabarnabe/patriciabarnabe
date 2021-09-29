@@ -29,7 +29,7 @@
   <img align="center" alt="Pat-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Patt-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/892909282041921536/patdoll.gif">
 </div>
   
 ----
