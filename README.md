@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
-<img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-a9f981930f46.gif">
+<img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
 
 :computer: Sou desenvolvedora Front-End formada pela <a href="https://reprograma.com.br/">{reprograma}</a> e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e Desenvolvimento Front-End na <a href="https://www.laboratoria.la/br"> Laboratoria</a>. <br>
 :computer: I'm a Frontend Developer graduated at **{reprograma}** and, currently, I'm studying **Systems Analysis and Development** and Frontend Development at **<Laboratoria>**</a>.
