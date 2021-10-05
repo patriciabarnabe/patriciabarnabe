@@ -10,7 +10,7 @@
 👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
 👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.  
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
