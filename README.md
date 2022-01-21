@@ -1,7 +1,7 @@
 ## Hi there! Welcome 😊 
 <img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
 
-💻 I'm a **Front-End developer at Avanade** and I'm currently studying **Systems Analysis and Development**.
+💻 I'm a **Front-End Developer at Avanade** and I'm currently studying **Systems Analysis and Development**.
 
 ⚖️ Although I also have a degree in Law, I have always been interested in the area of exact sciences and am fascinated by the technological universe and I always intend to participate in projects that, in some way, have a **positive impact on society** 🌱
 
