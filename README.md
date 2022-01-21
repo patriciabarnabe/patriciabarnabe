@@ -1,14 +1,11 @@
-## Olá! Seja bem vindo(a) 😊 | Hi there! Welcome :wave:
+## Hi there! Welcome 😊 
 <img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
 
-:computer: Sou desenvolvedora Front-End formada pela <a href="https://reprograma.com.br/">{reprograma}</a> e pela <a href="https://www.laboratoria.la/br"> Laboratoria</a>. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**. <br>
-:computer: I'm a Frontend Developer graduated by **{reprograma}** and **< Laboratoria >**</a>. Currently, I'm studying **Systems Analysis and Development**.
+💻 I'm a **Front-End developer at Avanade** and I'm currently studying **Systems Analysis and Development**.
 
-:balance_scale: Apesar de ser formada em **Direito** pela <a href="https://www.ufpb.br/">UFPB</a>, sempre tive interesse na área de exatas e sou fascinada pelo universo tecnológico. <br>
-:balance_scale: Despite having a **Law Degree** from **UFPB**, I've always been interested in the exact sciences and I'm fascinated by the technological universe.
+⚖️ Although I also have a degree in Law, I have always been interested in the area of exact sciences and am fascinated by the technological universe and I always intend to participate in projects that, in some way, have a **positive impact on society** 🌱
 
-👩🏼‍💻 Pretendo sempre participar de projetos que, de alguma forma, causem **impacto positivo na sociedade**. <br>
-👩🏼‍💻 I always intend to collaborate in projects that, in some way, have a **positive impact on society**.  
+I'm constantly looking for new courses and learning sources in order to deepen my knowledge and become a Fullstack Developer 👩‍💻
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
