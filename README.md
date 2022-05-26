@@ -1,5 +1,7 @@
 ## Hi there! Welcome 😊 
-<img align="right" alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
+<div align="center"> 
+  <img alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
+</div>
 
 💻 I'm a **Front-End Developer at Avanade** and I'm currently studying **Systems Analysis and Development**.
 
