@@ -3,9 +3,9 @@
 
 💻 I'm a **Front-End Developer at Avanade** and I'm currently studying **Systems Analysis and Development**.
 
-Always fascinated by the technological universe, I seek to participate in projects that, in some way, have a **positive impact on society** 🌱
+🌱 Always fascinated by the technological universe, I seek to participate in projects that, in some way, have a **positive impact on society** 
 
-I'm in constant search for new challenges and sources of learning in order to deepen my knowledge and become a **Fullstack Developer** 👩‍💻
+👩‍💻 I'm in constant search for new challenges and sources of learning in order to deepen my knowledge and become a **Fullstack Developer** 
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
