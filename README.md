@@ -3,7 +3,7 @@
   <img alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
 </div>
 
-💻 I'm a **Software Developer**, graduated in **Systems Analysis and Development** and studying **Computer Science**.
+💻 I'm a **Software Developer**, graduated in **Systems Analysis and Development**, and deepening my knowledge in **Computer Science**.
 
 🌱 Always fascinated by the technological universe, I seek to participate in projects that, in some way, have a **positive impact on society** 
 
