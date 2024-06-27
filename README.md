@@ -3,11 +3,9 @@
   <img alt="Pat-doll" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547218227017547779/893593064529100860/patdoll-gif.gif">
 </div>
 
-💻 I'm a **Software Developer**, graduated in **Systems Analysis and Development**, and deepening my knowledge in **Computer Science**.
+💻 I'm a **Software Developer**, graduated in **Systems Analysis and Development**, deepening my knowledge in **Computer Science** and in constant search for new challenges and opportunities to enhance both my technical and soft skills.
 
-🌱 Always fascinated by the technological universe, I seek to participate in projects that, in some way, have a **positive impact on society** 
-
-👩‍💻 I'm in constant search for new challenges and sources of learning in order to deepen my knowledge and become a **Fullstack Developer** 
+🌱 Always fascinated by the technological universe, I seek to participate in projects that, in some way, have a positive impact on society. 
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/patriciabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
